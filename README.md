@@ -29,5 +29,5 @@ This is a simple phone number tracking app built with Python and Tkinter. It ret
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/phone-number-tracker.git
-cd phone-number-tracker
+git clone https://github.com/Noob-tbhd/Location
+cd Location
